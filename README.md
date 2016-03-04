@@ -20,7 +20,7 @@ Example  :
       "DOM1"_sql        DESC
    )
    LIMIT(10)
-   DIALECT(DBPROVIDER::NETEZZA)\n
+   DIALECT(DBPROVIDER::NETEZZA)
    EXEC(con);
 
    std::wcout << res;
