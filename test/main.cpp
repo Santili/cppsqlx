@@ -12,7 +12,7 @@ int main()
              dbms("Netezza").
              host("hostname").
              port(5480).
-             name("table_name").
+             name("db_name").
              connect("username","password");
 
    /*Create Datasets to work with */
