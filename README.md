@@ -1,7 +1,4 @@
 ##cppsqlx
-
-
-##What is it?
 ---
 C++ SQL library Extension
 
