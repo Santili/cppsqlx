@@ -6,8 +6,8 @@ Makes SQL into C++
 * Easier to intagrate
 * Less prone to error than string based SQL 
 * More readable than string concatenated SQL
-* Database syntax independent
-* It's funny...
+* syntax independent
+* more funny...
 
 
 
