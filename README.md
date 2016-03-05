@@ -1,8 +1,8 @@
 ##cppsqlx
 ---
-C++ SQL library Extension
+cppsqlx stands for : C++ SQL library Extension
 
-Makes SQL into C++ 
+It makes SQL into C++ 
 * Easier to intagrate
 * Less prone to error than string based SQL 
 * More readable than string concatenated SQL
