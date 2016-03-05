@@ -1,5 +1,4 @@
 ##cppsqlx
----
 cppsqlx stands for : C++ SQL library Extension
 
 It makes SQL into C++ 
