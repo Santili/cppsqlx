@@ -15,6 +15,14 @@ Makes SQL into C++
 * unixODBC
 * log4cpp
 
+##Supported databases
+*Netezza
+*Greenplum
+*Vertica
+*Postgresql
+*Oracle
+*Drill
+*Monetdb
 
 ##How to buid?
 ```bash
