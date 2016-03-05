@@ -16,13 +16,13 @@ Makes SQL into C++
 * log4cpp
 
 ##Supported databases
-*Netezza
-*Greenplum
-*Vertica
-*Postgresql
-*Oracle
-*Drill
-*Monetdb
+* Netezza
+* Greenplum
+* Vertica
+* Postgresql
+* Oracle
+* Drill
+* Monetdb
 
 ##How to buid?
 ```bash
