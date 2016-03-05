@@ -1,5 +1,7 @@
-# cppsqlx
-What is it?
+##cppsqlx
+
+
+##What is it?
 ---
 C++ SQL library Extension
 
@@ -7,22 +9,24 @@ Make SQL integration into C++ code easy and readeable
 
 
 
-Requirements
+##Requirements
 ---
-C++11
+c++11
 
 unixODBC
 
-LOG4CPP
+log4cpp
 
 
 
 
 ##How to buid?
 ---
-#make && make install
+make && make install
 
-Example
+
+
+##Example
 ---
 
 
